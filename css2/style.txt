@@ -7,7 +7,7 @@ body{
 .rio{
 	background-image:url("../iamgess/desktop.jpg");
 	background-color: #cccccc;
-    height: 800px;
+    height: 900px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
